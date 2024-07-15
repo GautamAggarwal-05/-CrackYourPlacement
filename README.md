@@ -15,6 +15,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -41,4 +42,12 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0055-jump-game) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
