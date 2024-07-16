@@ -14,6 +14,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0001-two-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
@@ -25,6 +26,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -41,6 +43,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
