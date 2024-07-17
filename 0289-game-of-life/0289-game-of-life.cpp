@@ -1,60 +1,56 @@
 class Solution {
 public:
+    bool isValid(const vector<vector<int>>& board, int i, int j) {
+        return i >= 0 && i < board.size() && j >= 0 && j < board[0].size();
+    }
     void gameOfLife(vector<vector<int>>& board) {
-        int m=board.size();
-        int n=board[0].size();
-        vector<vector<int>>ans(m,vector<int>(n,-1));
-
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                int livecount = 0;
-                    if(j>0 && board[i][j-1]==1){
-                        livecount++;
-                    }
-                    if(j<n-1 && board[i][j+1]==1){
-                        livecount++;
-                    }
-                    if(i>0 && board[i-1][j]==1)
-                    {
-                        livecount++;
-                    }
-                    if(i<m-1 && board[i+1][j]==1){
-                        livecount++;
-                    }
-                    //uperdiagonal
-                    if(i>0 && j>0 && board[i-1][j-1]==1)
-                        livecount++;
-                    if(i>0 && j<n-1 && board[i-1][j+1]==1){
-                        livecount++;
-                    }
-                    //lowerdiagonal
-                    if(i<m-1 && j>0 && board[i+1][j-1]==1)
-                        livecount++;
-                    if(i<m-1 && j<n-1 && board[i+1][j+1]==1)
-                        livecount++;
-                    
-                    if(board[i][j]==1){
-                        if(livecount < 2 || livecount >3)
-                            ans[i][j]=0;
-                        else{
-                            ans[i][j]=1;
-                        }
-                    }
-                    else{
-                        if(livecount==3){
-                            ans[i][j]=1;
-                        }
-                        else{
-                            ans[i][j]=0;
-                        }
-                    }
-                }   
-            }
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                board[i][j]=ans[i][j];
+        for (int i = 0; i < board.size(); i++) {
+            for (int j = 0; j < board[0].size(); j++) {
+                int count = 0;
+                if (isValid(board, i - 1, j - 1) && (board[i - 1][j - 1] == 1 || board[i - 1][j - 1] == 3)) {
+                    count++;
+                }
+                if (isValid(board, i - 1, j) && (board[i - 1][j] == 1 || board[i - 1][j] == 3)) {
+                    count++;
+                }
+                if (isValid(board, i - 1, j + 1) && (board[i - 1][j + 1] == 1 || board[i - 1][j + 1] == 3)) {
+                    count++;
+                }
+                if (isValid(board, i, j + 1) && (board[i][j + 1] == 1 || board[i][j + 1] == 3)) {
+                    count++;
+                }
+                if (isValid(board, i + 1, j + 1) && (board[i + 1][j + 1] == 1 || board[i + 1][j + 1] == 3)) {
+                    count++;
+                }
+                if (isValid(board, i + 1, j) && (board[i + 1][j] == 1 || board[i + 1][j] == 3)) {
+                    count++;
+                }
+                if (isValid(board, i + 1, j - 1) && (board[i + 1][j - 1] == 1 || board[i + 1][j - 1] == 3)) {
+                    count++;
+                }
+                if (isValid(board, i, j - 1) && (board[i][j - 1] == 1 || board[i][j - 1] == 3)) {
+                    count++;
+                }
+                if (board[i][j] == 1 && count < 2) {
+                    board[i][j] = 3;
+                } else if (board[i][j] == 1 && (count == 2 || count == 3)) {
+                    board[i][j] = 1;
+                } else if (board[i][j] == 1 && count > 3) {
+                    board[i][j] = 3;
+                } else if (board[i][j] == 0 && count == 3) {
+                    board[i][j] = 4;
+                }
+                cout << board[i][j] << endl;
             }
         }
-    
+        for (int i = 0; i < board.size(); i++) {
+            for (int j = 0; j < board[0].size(); j++) {
+                if (board[i][j] == 3) {
+                    board[i][j] = 0;
+                } else if (board[i][j] == 4) {
+                    board[i][j] = 1;
+                }
+            }
+        }
     }
 };
