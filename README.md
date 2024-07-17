@@ -16,6 +16,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0015-3sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
@@ -45,6 +46,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 ## Sorting
 |  |
@@ -110,4 +112,8 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
