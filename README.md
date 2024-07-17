@@ -13,6 +13,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -34,6 +35,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -70,6 +72,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
