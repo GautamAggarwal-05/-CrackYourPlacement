@@ -84,6 +84,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
@@ -137,6 +138,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0079-word-search) |
 ## Backtracking
 |  |
