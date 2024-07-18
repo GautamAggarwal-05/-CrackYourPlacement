@@ -1,25 +1,25 @@
 #include <unordered_map>
 #include <vector>
-#include <cstdlib> // For rand()
-#include <ctime>   // For time()
+#include <cstdlib> 
+#include <ctime>   
 
 class RandomizedCollection {
 public:
     std::unordered_map<int, int> mp;
-    std::vector<int> elements; // Vector to store elements according to their frequency
+    std::vector<int> elements; 
     
     RandomizedCollection() {
-        srand(time(nullptr)); // Initialize random seed
+        srand(time(nullptr));
     }
     
     bool insert(int val) {
         if (mp[val] > 0) {
             mp[val]++;
-            elements.push_back(val); // Add the element to the vector
+            elements.push_back(val); 
             return false;
         } else {
             mp[val]++;
-            elements.push_back(val); // Add the element to the vector
+            elements.push_back(val); 
             return true;
         }
     }
@@ -27,7 +27,7 @@ public:
     bool remove(int val) {
         if (mp[val] > 0) {
             mp[val]--;
-            // Remove one occurrence of the element from the vector
+          
             for (auto it = elements.begin(); it != elements.end(); ++it) {
                 if (*it == val) {
                     elements.erase(it);
