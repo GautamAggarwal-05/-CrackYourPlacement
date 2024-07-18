@@ -138,6 +138,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0079-word-search) |
 ## Backtracking
@@ -169,4 +170,8 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
