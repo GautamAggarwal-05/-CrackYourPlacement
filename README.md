@@ -79,6 +79,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -151,6 +152,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0012-integer-to-roman](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0071-simplify-path) |
@@ -161,6 +163,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0079-word-search) |
 ## Queue
