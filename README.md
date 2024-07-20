@@ -29,6 +29,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -69,6 +70,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0054-spiral-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0289-game-of-life) |
 ## Sorting
 |  |
@@ -203,4 +205,16 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
