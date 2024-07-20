@@ -18,6 +18,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0018-4sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0047-permutations-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0055-jump-game) |
@@ -64,6 +65,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0079-word-search) |
@@ -182,6 +184,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0227-basic-calculator-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Design
