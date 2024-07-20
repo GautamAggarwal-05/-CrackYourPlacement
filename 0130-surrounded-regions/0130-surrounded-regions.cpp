@@ -1,50 +1,42 @@
-class Solution {
+class Solution 
+{
 public:
-    bool dfs(int i, int j, vector<vector<char>>& grid, int m, int n) {
-        if (i < 0 || i >= m || j < 0 || j >= n) {
-            return false;
+    void check(int r,int c,vector<vector<char>>&board)
+    {
+        if(r<0 || r>=board.size() || c<0 || c>=board[0].size() ||board[r][c]!='O')
+        {
+          return;
         }
-
-        if (grid[i][j] == 'X' || grid[i][j] == 'V') {
-            return true;
-        }
-
-        grid[i][j] = 'V';
-
-        bool up = dfs(i - 1, j, grid, m, n);
-        bool down = dfs(i + 1, j, grid, m, n);
-        bool left = dfs(i, j - 1, grid, m, n);
-        bool right = dfs(i, j + 1, grid, m, n);
-
-        return up && down && left && right;
+        board[r][c]='T';
+        check(r+1,c,board);
+        check(r-1,c,board);
+        check(r,c+1,board);
+        check(r,c-1,board);
     }
-
-    void solve(vector<vector<char>>& board) {
-        int m = board.size();
-        int n = board[0].size();
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (board[i][j] == 'O') {
-                    // If the region is surrounded, mark all 'O' as 'X'
-                    if (dfs(i, j, board, m, n)) {
-                        for (int x = 0; x < m; x++) {
-                            for (int y = 0; y < n; y++) {
-                                if (board[x][y] == 'V') {
-                                    board[x][y] = 'X';
-                                }
-                            }
-                        }
-                    } else {
-                        // If not surrounded, revert all 'V' back to 'O'
-                        for (int x = 0; x < m; x++) {
-                            for (int y = 0; y < n; y++) {
-                                if (board[x][y] == 'V') {
-                                    board[x][y] = 'O';
-                                }
-                            }
-                        }
-                    }
+    void solve(vector<vector<char>>& board) 
+    {
+        for(int i=0;i<board.size();i++)
+        {
+            for(int j=0;j<board[0].size();j++)
+            {
+               if(i==0 || i==board.size()-1 || j==0 || j==board[0].size()-1)
+               {
+                check(i,j,board);
+               }
+            }
+        }
+        
+        for(int r=0;r<board.size();r++)
+        {
+            for(int c=0;c<board[0].size();c++)
+            {
+                if(board[r][c]=='T')
+                {
+                    board[r][c]='O';
+                }
+                else if(board[r][c]=='O')
+                {
+                    board[r][c]='X';
                 }
             }
         }
