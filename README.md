@@ -40,6 +40,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
@@ -87,6 +88,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0088-merge-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +208,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0227-basic-calculator-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Design
 |  |
 | ------- |
