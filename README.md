@@ -158,6 +158,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0289-game-of-life) |
 ## String
 |  |
@@ -168,6 +169,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0022-generate-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
@@ -196,6 +198,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0012-integer-to-roman](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -230,4 +233,8 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0130-surrounded-regions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
