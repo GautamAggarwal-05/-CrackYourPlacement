@@ -216,6 +216,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0067-add-binary) |
@@ -265,12 +266,14 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0092-reverse-linked-list-ii) |
