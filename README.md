@@ -270,6 +270,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
@@ -277,6 +278,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0086-partition-list) |
