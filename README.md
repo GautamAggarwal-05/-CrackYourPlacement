@@ -128,6 +128,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0085-maximal-rectangle](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
@@ -218,6 +219,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Heap (Priority Queue)
 |  |
@@ -245,6 +247,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Randomized
 |  |
