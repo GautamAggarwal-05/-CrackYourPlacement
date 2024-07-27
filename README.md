@@ -78,6 +78,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0073-set-matrix-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -262,6 +263,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -322,6 +324,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0092-reverse-linked-list-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
@@ -335,5 +338,6 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
