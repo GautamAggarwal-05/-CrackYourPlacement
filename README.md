@@ -119,6 +119,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0115-distinct-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -308,6 +309,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
