@@ -44,6 +44,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0496-next-greater-element-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
@@ -139,6 +140,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0234-palindrome-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
@@ -148,6 +150,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0084-largest-rectangle-in-histogram](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
