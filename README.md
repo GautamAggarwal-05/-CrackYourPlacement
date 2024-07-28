@@ -32,6 +32,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
@@ -120,6 +121,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0115-distinct-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 ## Greedy
