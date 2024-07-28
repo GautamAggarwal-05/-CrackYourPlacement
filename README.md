@@ -124,6 +124,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0152-maximum-product-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0972-knight-dialer](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0972-knight-dialer) |
 ## Greedy
 |  |
 | ------- |
