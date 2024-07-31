@@ -297,6 +297,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0445-add-two-numbers-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0856-consecutive-numbers-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0856-consecutive-numbers-sum) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
@@ -409,5 +410,6 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Enumeration
 |  |
 | ------- |
+| [0856-consecutive-numbers-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0856-consecutive-numbers-sum) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 <!---LeetCode Topics End-->
