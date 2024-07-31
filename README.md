@@ -35,6 +35,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0150-evaluate-reverse-polish-notation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
@@ -106,6 +107,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0079-word-search](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0289-game-of-life) |
@@ -135,6 +137,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0338-counting-bits) |
