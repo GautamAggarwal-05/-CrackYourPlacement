@@ -153,6 +153,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0740-delete-and-earn](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0972-knight-dialer](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0972-knight-dialer) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -271,6 +272,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0680-valid-palindrome-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Backtracking
 |  |
 | ------- |
