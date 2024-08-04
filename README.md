@@ -42,6 +42,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0283-move-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
+| [0312-burst-balloons](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0416-partition-equal-subset-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
@@ -145,6 +146,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0152-maximum-product-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0221-maximal-square) |
+| [0312-burst-balloons](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
