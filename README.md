@@ -61,6 +61,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Two Pointers
 |  |
@@ -103,6 +104,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0560-subarray-sum-equals-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Matrix
 |  |
 | ------- |
