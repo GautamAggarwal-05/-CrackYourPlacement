@@ -172,6 +172,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0011-container-with-most-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -190,6 +191,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0232-implement-queue-using-stacks](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+| [0402-remove-k-digits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
@@ -201,6 +203,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
@@ -285,6 +288,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0168-excel-sheet-column-title](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0402-remove-k-digits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
