@@ -45,6 +45,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0312-burst-balloons](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0416-partition-equal-subset-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -129,6 +130,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0221-maximal-square](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Sorting
 |  |
@@ -140,6 +142,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0148-sort-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
@@ -252,6 +255,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0923-super-egg-drop](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
@@ -330,6 +334,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0264-ugly-number-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
