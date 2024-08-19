@@ -6,7 +6,6 @@ struct comp{
 };
 public:
     string reorganizeString(string s) {
-        sort(s.begin(),s.end());
         vector<int>freq(26,0);
         for(int i=0;i<s.length();i++){
             freq[s[i]-'a']++;
@@ -29,7 +28,7 @@ public:
         while(!pq.empty()){
             pair<char,int>  top= pq.top();
             pq.pop();
-            if(pq.size()!=1 && !ans.empty() && ans.back() == top.first){
+            if(!pq.empty() && !ans.empty() && ans.back() == top.first){
                 pair<char,int>stored = top;
                 top=pq.top();
                 pq.pop();
