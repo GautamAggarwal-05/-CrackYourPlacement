@@ -59,6 +59,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
+| [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -136,6 +137,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0289-game-of-life](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Sorting
 |  |
@@ -275,6 +277,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0923-super-egg-drop](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 ## Binary Indexed Tree
 |  |
@@ -355,6 +358,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
@@ -414,17 +418,20 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0322-coin-change) |
+| [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 ## Bit Manipulation
 |  |
 | ------- |
