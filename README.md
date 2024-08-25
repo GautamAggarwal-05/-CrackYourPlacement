@@ -39,6 +39,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
@@ -255,6 +256,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -351,11 +353,13 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -370,6 +374,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Math
 |  |
