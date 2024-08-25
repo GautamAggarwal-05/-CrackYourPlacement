@@ -1,35 +1,142 @@
+//Approach-1 (Brute Force - Heap + Math) - TLE
+//T.C : O(n * (n + klogk))
+//S.C : O(n+k)
+// class Solution {
+// public:
+//     double mincostToHireWorkers(vector<int>& quality, vector<int>& min_wage, int k) {
+//         int n = quality.size();
+
+//         double result = DBL_MAX; //std::numeric_limits<double>::max()
+//         //maximum representable finite floating-point (double) number
+
+//         for(int manager = 0; manager < n; manager++) {
+            
+//             double managerRatio = (double)min_wage[manager]/quality[manager];
+
+//             vector<double> group;
+//             for(int worker = 0; worker < n; worker++) {
+//                 double worker_wage = quality[worker] * managerRatio;
+//                 if(worker_wage >= min_wage[worker]) {
+//                     group.push_back(worker_wage);
+//                 }
+//             }
+
+//             if(group.size() < k)
+//                 continue;
+            
+//             priority_queue<double, vector<double>> pq;
+//             double sum = 0;
+
+//             for(double &wage : group) {
+//                 sum += wage;
+//                 pq.push(wage);
+
+//                 if(pq.size() > k) {
+//                     sum -= pq.top();
+//                     pq.pop();
+//                 }
+//             }
+
+//             result = min(result, sum);
+
+//         }
+
+//         return result;
+//     }
+// };
+
+
+//Approach-2 (Improved Brute Force - Heap + Math) - TLE
+//T.C : O(nlogn + n * (n + klogk)) - This is worst case when no one got eliminated 
+//S.C : O(n+k)
+// class Solution {
+// public:
+//     double mincostToHireWorkers(vector<int>& quality, vector<int>& min_wage, int k) {
+//         int n = quality.size();
+
+//         double result = DBL_MAX; //std::numeric_limits<double>::max()
+//         //maximum representable finite floating-point (double) number
+
+//         vector<pair<double, int>> worker_ratio(n);
+//         for(int worker = 0; worker < n; worker++) {
+//             worker_ratio[worker] = make_pair((double)min_wage[worker]/quality[worker], quality[worker]);
+//         }
+
+//         sort(begin(worker_ratio), end(worker_ratio));
+
+//         for(int manager = k-1; manager < n; manager++) {
+            
+//             double managerRatio = worker_ratio[manager].first;
+
+//             vector<double> group;
+//             for(int worker = 0; worker <= manager; worker++) {
+//                 double worker_wage = worker_ratio[worker].second * managerRatio;
+//                 group.push_back(worker_wage);
+//             }
+
+//             priority_queue<double, vector<double>> pq;
+//             double sum = 0;
+
+//             for(double &wage : group) {
+//                 sum += wage;
+//                 pq.push(wage);
+
+//                 if(pq.size() > k) {
+//                     sum -= pq.top();
+//                     pq.pop();
+//                 }
+//             }
+
+//             result = min(result, sum);
+
+//         }
+
+//         return result;
+//     }
+// };
+
+
+//Approach-3 (Optimal)
+//T.C : O(nlogn + klogk + n*log(k))
+//S.C : O(n+k)
 class Solution {
 public:
-    double mincostToHireWorkers(vector<int>& quality, vector<int>& wage, int k) {
-        vector<pair<double, int>> ratio;
+    double mincostToHireWorkers(vector<int>& quality, vector<int>& min_wage, int k) {
         int n = quality.size();
+
+        vector<pair<double, int>> worker_ratio(n);
+        for(int worker = 0; worker < n; worker++) {
+            worker_ratio[worker] = make_pair((double)min_wage[worker]/quality[worker], quality[worker]);
+        }
+        sort(begin(worker_ratio), end(worker_ratio));
+
+        priority_queue<int, vector<int>> pq;
         
-        for (int i = 0; i < n; ++i) {
-                ratio.emplace_back(static_cast<double>(wage[i]) / quality[i], i);
-            }
+        double sum_quality = 0;
+        for(int i = 0; i < k; i++) { 
+            pq.push(worker_ratio[i].second); //push all qualities in max-heap
+            sum_quality += worker_ratio[i].second; //Find sum of qualities
+        }
+
+        double managerRatio = worker_ratio[k-1].first; 
+        double result       = managerRatio * sum_quality;
+
+        for(int manager = k; manager < n; manager++) {
             
-        sort(begin(ratio), end(ratio));
-        priority_queue<int> maxHeap;
-        int qualitySum = 0;
-        double maxRate = 0.0;
-        
-        for (int i = 0; i < k; ++i) {
-            qualitySum += quality[ratio[i].second];
-            maxRate = max(maxRate, ratio[i].first);
-            maxHeap.push(quality[ratio[i].second]);
+            managerRatio = worker_ratio[manager].first;
+
+            pq.push(worker_ratio[manager].second); //push all qualities in max-heap
+            sum_quality += worker_ratio[manager].second; //Find sum of qualities
+
+            if(pq.size() > k) {
+                sum_quality -= pq.top();
+                pq.pop();
+            }
+
+            result = min(result, managerRatio*sum_quality);
+
         }
 
-        double res = maxRate * qualitySum;
-        for (int i = k; i < n; ++i) {
-            maxRate = max(maxRate, ratio[i].first);
-            qualitySum -= maxHeap.top(); 
-            maxHeap.pop();
-
-            qualitySum += quality[ratio[i].second];
-            maxHeap.push(quality[ratio[i].second]);
-            res = min(res, maxRate * qualitySum);
-        }
-
-        return res;
+        return result;
     }
 };
