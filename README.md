@@ -424,6 +424,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
@@ -436,6 +437,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
@@ -496,6 +498,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
@@ -547,6 +550,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
