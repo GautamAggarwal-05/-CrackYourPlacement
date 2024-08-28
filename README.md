@@ -434,6 +434,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0130-surrounded-regions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
@@ -514,6 +515,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0104-maximum-depth-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
@@ -571,6 +573,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0104-maximum-depth-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
@@ -580,5 +583,6 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
