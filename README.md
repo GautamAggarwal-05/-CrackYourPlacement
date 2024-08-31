@@ -219,6 +219,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0085-maximal-rectangle](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
@@ -407,6 +408,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
@@ -525,6 +527,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
@@ -538,6 +541,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Iterator
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 ## Memoization
 |  |
@@ -588,6 +592,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
@@ -602,6 +607,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
