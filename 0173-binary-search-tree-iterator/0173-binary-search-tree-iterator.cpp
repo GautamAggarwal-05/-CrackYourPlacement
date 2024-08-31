@@ -1,44 +1,25 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class BSTIterator {
 public:
-    vector<int>arr;
-    int i=0;
-    void inorder(TreeNode *root,vector<int>&arr){
-        if(root==NULL)
-            return ;
-        
-        inorder(root->left,arr);
-        arr.push_back(root->val);
-        inorder(root->right,arr);
-    }
+    stack<TreeNode*> s;
     BSTIterator(TreeNode* root) {
-        inorder(root,arr);
+        partialInorder(root);
+    }
+    
+    void partialInorder(TreeNode* root){
+        while(root != NULL){
+            s.push(root);
+            root = root->left;
+        }
     }
     
     int next() {
-        int ans = arr[i];
-        i++;
-        return ans;
+        TreeNode* top = s.top();
+        s.pop();
+        partialInorder(top->right);
+        return top->val;
     }
     
     bool hasNext() {
-        return i<arr.size();
+        return !s.empty();
     }
 };
-
-/**
- * Your BSTIterator object will be instantiated and called as such:
- * BSTIterator* obj = new BSTIterator(root);
- * int param_1 = obj->next();
- * bool param_2 = obj->hasNext();
- */
