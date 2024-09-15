@@ -429,6 +429,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0304-range-sum-query-2d-immutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0838-design-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0838-design-linked-list) |
 ## Randomized
 |  |
 | ------- |
@@ -548,6 +549,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0234-palindrome-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0838-design-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
