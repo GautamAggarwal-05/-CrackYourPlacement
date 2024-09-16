@@ -366,6 +366,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0290-word-pattern](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
+| [0468-validate-ip-address](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0468-validate-ip-address) |
 | [0474-ones-and-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0778-reorganize-string) |
