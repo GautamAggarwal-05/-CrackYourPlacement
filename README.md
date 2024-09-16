@@ -56,6 +56,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0474-ones-and-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -150,6 +151,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0289-game-of-life](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
@@ -335,6 +337,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0067-add-binary](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
