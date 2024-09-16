@@ -112,6 +112,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0049-group-anagrams) |
@@ -284,6 +285,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
@@ -343,6 +345,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0017-letter-combinations-of-a-phone-number) |
