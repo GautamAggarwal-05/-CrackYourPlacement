@@ -280,6 +280,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0304-range-sum-query-2d-immutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0732-my-calendar-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
@@ -319,6 +320,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0732-my-calendar-iii) |
 | [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0923-super-egg-drop](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 ## Binary Indexed Tree
@@ -331,6 +333,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0732-my-calendar-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -342,6 +345,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0732-my-calendar-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -461,6 +465,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0732-my-calendar-iii) |
 | [0838-design-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0838-design-linked-list) |
 ## Randomized
 |  |
