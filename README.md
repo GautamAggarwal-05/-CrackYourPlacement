@@ -516,6 +516,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0971-shortest-bridge](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -539,6 +540,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Union Find
 |  |
 | ------- |
@@ -628,6 +630,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0662-maximum-width-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Iterator
 |  |
 | ------- |
