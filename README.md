@@ -137,6 +137,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0740-delete-and-earn](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -515,6 +516,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
@@ -547,6 +549,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0130-surrounded-regions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Bit Manipulation
 |  |
@@ -720,6 +723,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
