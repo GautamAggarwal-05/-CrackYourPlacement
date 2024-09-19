@@ -1,4 +1,5 @@
 class DisjointSet {
+public:
     vector<int> rank, parent;
 public:
     DisjointSet(int n) {
@@ -31,37 +32,24 @@ public:
         }
     }
 };
-
 class Solution {
 public:
     int removeStones(vector<vector<int>>& stones) {
-        int maxRow = 0, maxCol = 0;
         int n = stones.size();
-        
-        // Find maximum row and column index
-        for (int i = 0; i < n; i++) {
-            maxRow = max(maxRow, stones[i][0]);
-            maxCol = max(maxCol, stones[i][1]);
+        DisjointSet ds(n);
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                if(stones[i][0] == stones[j][0] || stones[i][1]==stones[j][1]){
+                    ds.unionByRank(i,j);
+                }
+            }
         }
-
-        // Create a disjoint set large enough to handle both rows and columns
-        DisjointSet ds(maxRow + maxCol + 1);  // size should be maxRow + maxCol
-
-        // Union rows and columns by shifting the column index
-        for (int i = 0; i < n; i++) {
-            int row = stones[i][0];
-            int col = stones[i][1] + maxRow + 1;  // shift column index by maxRow + 1
-            ds.unionByRank(row, col);
+        int ans=0;
+        for(int i=0;i<n;i++){
+            if(ds.parent[i] == i)
+                ans++;
         }
+        return n-ans;
 
-        // Count how many unique components are there
-        unordered_set<int> uniqueParents; // to store distinct connected components
-        for (int i = 0; i < n; i++) {
-            int row = stones[i][0];
-            uniqueParents.insert(ds.findUPar(row));  // find the representative of the row
-        }
-
-        // Result is the number of stones that can be removed
-        return n - uniqueParents.size();
     }
 };
