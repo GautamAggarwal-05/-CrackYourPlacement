@@ -1,46 +1,31 @@
 class Solution {
 public:
-    bool dfs(int i,int j,int count,vector<vector<char>>& board,string word)
-    {
-        // if we have found the whole string then count will become (word.length()==count) so return true
-        if(word.length()==count) return true;
+    bool solve(int i,int j,int indx,int n,int m,vector<vector<char>>& board,string &word, vector<vector<int>>&visited){
+        if(indx==word.length())
+            return true;
         
-        // check for boundary                                  // curr char is not same with word char
-        if(i<0 || i>=board.size() || j<0 || j>=board[0].size() || board[i][j] != word[count])
+        if(i<0 || j<0 || i>=n || j>=m || visited[i][j] || board[i][j] != word[indx])
             return false;
-        
-        
-        
-        char temp = board[i][j];                    // curr char
-        board[i][j] = ' ';                          // mark as visited
-        
-        
-        // up , down , left , right (possible moves)
-        bool ans = dfs(i-1,j,count+1,board,word) || 
-                   dfs(i+1,j,count+1,board,word) ||
-                   dfs(i,j-1,count+1,board,word) ||
-                   dfs(i,j+1,count+1,board,word);
-        
-        board[i][j] = temp;                         // make board as it is for the upcoming calls
-        return ans;
+        visited[i][j]=true;
+        bool left=false,right=false,up=false,down=false;
+        up = solve(i-1,j,indx+1,n,m,board,word,visited);
+        down = solve(i+1,j,indx+1,n,m,board,word,visited);
+        left = solve(i,j-1,indx+1,n,m,board,word,visited);
+        right = solve(i,j+1,indx+1,n,m,board,word,visited);     
+        visited[i][j]=false;
+        return up || down || left || right;
     }
-    
-    bool exist(vector<vector<char>>& board, string word) 
-    {
-        int n = board.size();                   // rows
-        int m = board[0].size();                // cols
-        
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                if(board[i][j]==word[0] && dfs(i,j,0,board,word))                // whenever we found first letter of word start searching from there
-                {
+    bool exist(vector<vector<char>>& board, string word) {
+        int n=board.size();
+        int m=board[0].size();
+        vector<vector<int>>visited(n,vector<int>(m,false));
+        string temp="";
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(solve(i,j,0,n,m,board,word,visited))
                     return true;
-                }
             }
         }
-        
-        return false;
+         return false;
     }
 };
