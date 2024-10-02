@@ -130,6 +130,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0146-lru-cache](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
@@ -306,6 +307,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -394,6 +396,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0115-distinct-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
+| [0187-repeated-dna-sequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
@@ -574,6 +577,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0187-repeated-dna-sequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0187-repeated-dna-sequences) |
 | [0338-counting-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
@@ -669,10 +673,12 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Enumeration
