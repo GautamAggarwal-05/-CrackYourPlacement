@@ -70,6 +70,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0733-flood-fill](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -337,6 +338,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0732-my-calendar-iii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0923-super-egg-drop](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 ## Binary Indexed Tree
