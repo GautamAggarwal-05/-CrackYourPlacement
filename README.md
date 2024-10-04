@@ -542,6 +542,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0572-subtree-of-another-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
@@ -669,6 +670,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0572-subtree-of-another-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -748,6 +750,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0572-subtree-of-another-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
