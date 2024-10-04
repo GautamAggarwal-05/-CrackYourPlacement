@@ -33,6 +33,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0149-max-points-on-a-line) |
@@ -129,6 +130,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0049-group-anagrams](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0149-max-points-on-a-line) |
@@ -577,6 +579,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
