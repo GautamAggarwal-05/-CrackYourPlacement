@@ -551,6 +551,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0971-shortest-bridge](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
@@ -577,6 +578,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0945-snakes-and-ladders](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Union Find
@@ -770,6 +772,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
