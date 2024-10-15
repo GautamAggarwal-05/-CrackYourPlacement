@@ -13,6 +13,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0018-4sum) |
@@ -323,6 +324,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0169-majority-element) |
@@ -340,6 +342,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0611-valid-triangle-number) |
