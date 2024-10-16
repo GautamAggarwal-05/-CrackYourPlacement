@@ -136,6 +136,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0146-lru-cache](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
@@ -406,6 +407,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0091-decode-ways](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
@@ -476,6 +478,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0096-unique-binary-search-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
