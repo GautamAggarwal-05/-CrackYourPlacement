@@ -38,17 +38,17 @@ public:
         int maxPoints = 0;            // Max points Bob can earn
         solve(0, numArrows, aliceArrows, ans, bestAns, maxPoints);
 
-        // Adjust the arrows to exactly match numArrows (if needed)
+        //bachi hui extra arrows 0 par shoot kar denge
         int sumArrows = 0;
         for (int i = 0; i < 12; i++) {
             sumArrows += bestAns[i];
         }
 
-        // If we have extra arrows left, assign them arbitrarily to any section
+        
         if (sumArrows < numArrows) {
-            bestAns[0] += (numArrows - sumArrows); // Add the remaining arrows to section 0
+            bestAns[0] += (numArrows - sumArrows); 
         }
 
-        return bestAns; // Return the best configuration of arrows Bob used
+        return bestAns; 
     }
 };
