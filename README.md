@@ -70,6 +70,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0628-maximum-product-of-three-numbers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0722-remove-comments](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0722-remove-comments) |
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0733-flood-fill) |
@@ -437,6 +438,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0468-validate-ip-address](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0468-validate-ip-address) |
 | [0474-ones-and-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0722-remove-comments](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0722-remove-comments) |
 | [0778-reorganize-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1272-invalid-transactions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1272-invalid-transactions) |
