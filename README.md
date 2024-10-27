@@ -45,6 +45,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0174-dungeon-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
+| [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
 | [0221-maximal-square](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
@@ -352,6 +353,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [1014-k-closest-points-to-origin](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
@@ -383,10 +385,12 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
@@ -399,6 +403,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
@@ -479,6 +484,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
@@ -838,4 +844,8 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0903-implement-rand10-using-rand7) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
