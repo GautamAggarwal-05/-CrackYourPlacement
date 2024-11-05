@@ -523,6 +523,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0166-fraction-to-recurring-decimal](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0263-ugly-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
