@@ -169,6 +169,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Matrix
 |  |
@@ -333,6 +334,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1042-minimum-cost-to-merge-stones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Sliding Window
 |  |
@@ -463,6 +465,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -648,6 +651,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0187-repeated-dna-sequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0187-repeated-dna-sequences) |
 | [0338-counting-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2318-maximum-points-in-an-archery-competition) |
 ## Recursion
 |  |
