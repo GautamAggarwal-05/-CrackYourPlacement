@@ -105,6 +105,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -282,6 +283,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 ## Stack
 |  |
 | ------- |
@@ -385,6 +387,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0745-find-smallest-letter-greater-than-target](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0923-super-egg-drop](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
+| [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -540,6 +543,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 ## Design
 |  |
 | ------- |
@@ -855,4 +859,8 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
