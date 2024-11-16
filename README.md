@@ -109,6 +109,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -360,6 +361,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
