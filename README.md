@@ -109,6 +109,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
@@ -210,6 +211,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0971-shortest-bridge](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -450,6 +452,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0289-game-of-life](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## String
 |  |
