@@ -116,6 +116,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [3212-count-the-number-of-good-partitions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3212-count-the-number-of-good-partitions) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -189,6 +190,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3212-count-the-number-of-good-partitions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3212-count-the-number-of-good-partitions) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Matrix
 |  |
@@ -402,6 +404,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0621-task-scheduler](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1925-count-nice-pairs-in-an-array) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -812,6 +815,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0856-consecutive-numbers-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0856-consecutive-numbers-sum) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2318-maximum-points-in-an-archery-competition) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
