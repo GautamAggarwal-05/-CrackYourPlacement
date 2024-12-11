@@ -9,6 +9,8 @@ public:
             mp[nums[i]]++;
         }
         int largestoutlier=INT_MIN;
+        // n-2 number sum + sum we are finding = 2*sum we are finding
+        // 2 * specialnumber = (totalsum-outlier); specialnumber is the sum we are trying to make with n-2 numbers
         for(int i=0;i<n;i++){
             int outlier=nums[i];
             int reqsum = sum-outlier;
