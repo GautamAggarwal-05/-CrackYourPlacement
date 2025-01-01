@@ -583,6 +583,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1014-k-closest-points-to-origin](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3212-count-the-number-of-good-partitions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3212-count-the-number-of-good-partitions) |
@@ -841,6 +842,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0149-max-points-on-a-line) |
 | [1014-k-closest-points-to-origin](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1501-circle-and-rectangle-overlapping) |
 ## Binary Tree
 |  |
 | ------- |
