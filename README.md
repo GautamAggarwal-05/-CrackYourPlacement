@@ -105,6 +105,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1792-find-the-most-competitive-subsequence](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2318-maximum-points-in-an-archery-competition) |
@@ -461,6 +462,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0289-game-of-life](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## String
@@ -528,6 +530,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0239-sliding-window-maximum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
@@ -585,6 +588,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3212-count-the-number-of-good-partitions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3212-count-the-number-of-good-partitions) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -720,6 +724,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0206-reverse-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
