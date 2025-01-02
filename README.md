@@ -84,6 +84,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0932-monotonic-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0932-monotonic-array) |
 | [0945-snakes-and-ladders](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
@@ -361,6 +362,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0560-subarray-sum-equals-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0732-my-calendar-iii) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
@@ -423,6 +425,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0732-my-calendar-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0732-my-calendar-iii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0923-super-egg-drop](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -455,6 +458,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0732-my-calendar-iii) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 ## Simulation
 |  |
 | ------- |
@@ -584,6 +588,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0628-maximum-product-of-three-numbers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0856-consecutive-numbers-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0856-consecutive-numbers-sum) |
 | [0903-implement-rand10-using-rand7](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0903-implement-rand10-using-rand7) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0923-super-egg-drop](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [1014-k-closest-points-to-origin](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
@@ -614,6 +619,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0903-implement-rand10-using-rand7](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0903-implement-rand10-using-rand7) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 ## Trie
 |  |
 | ------- |
@@ -925,4 +931,8 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
