@@ -55,6 +55,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0312-burst-balloons](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0354-russian-doll-envelopes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0416-partition-equal-subset-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
@@ -232,6 +233,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0148-sort-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0354-russian-doll-envelopes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -273,6 +275,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0312-burst-balloons](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0338-counting-bits) |
+| [0354-russian-doll-envelopes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0688-knight-probability-in-chessboard](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0688-knight-probability-in-chessboard) |
@@ -416,6 +419,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0004-median-of-two-sorted-arrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
+| [0354-russian-doll-envelopes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0611-valid-triangle-number) |
