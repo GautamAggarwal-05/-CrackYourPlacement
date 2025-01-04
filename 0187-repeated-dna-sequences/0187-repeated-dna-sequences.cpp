@@ -1,20 +1,18 @@
 class Solution {
 public:
-    vector<string> findRepeatedDnaSequences(std::string s) {
-        unordered_set<string> seen; 
-        unordered_set<string> output;
-        int n = s.length();
-    
-        for (int i = 0; i <= n - 10; ++i) {
-            string sequence = s.substr(i, 10);
-            if (seen.count(sequence) > 0) {
-                output.insert(sequence);
-            }
-            seen.insert(sequence);
+    vector<string> findRepeatedDnaSequences(string s) {
+        unordered_map<string,int>mp;
+        int n=s.length();
+        vector<string>ans;
+        for(int i=0;i<=n-10;i++){
+            string str = s.substr(i,10);
+            mp[str]++;
         }
-
-        // Convert output set to vector
-        return vector<string>(output.begin(), output.end());
+        for(auto elem:mp){
+            if(elem.second>1)
+                ans.push_back(elem.first);
+        }
+        return ans;
     }
 };
 
