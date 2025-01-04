@@ -97,6 +97,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1272-invalid-transactions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1272-invalid-transactions) |
 | [1306-minimum-absolute-difference](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1306-minimum-absolute-difference) |
+| [1370-count-number-of-nice-subarrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -187,6 +188,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1272-invalid-transactions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1272-invalid-transactions) |
+| [1370-count-number-of-nice-subarrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -370,6 +372,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1016-subarray-sums-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -385,6 +388,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0239-sliding-window-maximum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1370-count-number-of-nice-subarrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1755-defuse-the-bomb](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
@@ -599,6 +603,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0923-super-egg-drop](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [1014-k-closest-points-to-origin](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1925-count-nice-pairs-in-an-array) |
