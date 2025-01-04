@@ -172,6 +172,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0187-repeated-dna-sequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0424-longest-repeating-character-replacement](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
@@ -407,6 +408,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0621-task-scheduler) |
@@ -504,6 +506,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0257-binary-tree-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0299-bulls-and-cows) |
 | [0402-remove-k-digits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0443-string-compression) |
