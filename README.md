@@ -294,6 +294,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Greedy
@@ -919,6 +920,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -947,4 +949,8 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
