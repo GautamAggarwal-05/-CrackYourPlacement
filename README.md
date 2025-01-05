@@ -120,6 +120,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3212-count-the-number-of-good-partitions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3212-count-the-number-of-good-partitions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -153,6 +154,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -444,6 +446,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2179-most-beautiful-item-for-each-query](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -850,6 +853,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0856-consecutive-numbers-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0856-consecutive-numbers-sum) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2318-maximum-points-in-an-archery-competition) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Bucket Sort
 |  |
