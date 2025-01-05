@@ -119,6 +119,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3212-count-the-number-of-good-partitions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3212-count-the-number-of-good-partitions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -529,6 +530,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -921,6 +923,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1120-flower-planting-with-no-adjacent](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -953,4 +956,5 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
