@@ -85,6 +85,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0740-delete-and-earn](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
+| [0875-longest-mountain-in-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0875-longest-mountain-in-array) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -152,6 +153,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0611-valid-triangle-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [0875-longest-mountain-in-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -292,6 +294,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
+| [0875-longest-mountain-in-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0875-longest-mountain-in-array) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0923-super-egg-drop](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [0967-minimum-falling-path-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
@@ -864,6 +867,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0856-consecutive-numbers-sum) |
+| [0875-longest-mountain-in-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0875-longest-mountain-in-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
