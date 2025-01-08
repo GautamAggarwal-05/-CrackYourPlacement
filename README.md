@@ -183,6 +183,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0299-bulls-and-cows](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0387-first-unique-character-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
@@ -428,6 +429,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0169-majority-element](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0778-reorganize-string) |
@@ -526,6 +528,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0273-integer-to-english-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0443-string-compression) |
@@ -565,6 +568,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0232-implement-queue-using-stacks](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0387-first-unique-character-in-a-string) |
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
