@@ -531,6 +531,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0257-binary-tree-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
@@ -646,6 +647,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0173-binary-search-tree-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -686,6 +688,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
@@ -722,6 +725,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0199-binary-tree-right-side-view](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -831,6 +835,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
@@ -924,6 +929,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
