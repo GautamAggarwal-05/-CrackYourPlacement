@@ -313,6 +313,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Greedy
 |  |
 | ------- |
@@ -638,6 +639,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1951-find-the-winner-of-the-circular-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3212-count-the-number-of-good-partitions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3212-count-the-number-of-good-partitions) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Design
 |  |
@@ -764,6 +766,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2318-maximum-points-in-an-archery-competition) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -863,11 +866,13 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0070-climbing-stairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0638-shopping-offers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [3212-count-the-number-of-good-partitions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3212-count-the-number-of-good-partitions) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Rolling Hash
 |  |
 | ------- |
