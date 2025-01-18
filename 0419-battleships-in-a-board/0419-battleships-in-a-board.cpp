@@ -6,8 +6,7 @@ public:
         board[i][j]='.';
         dfs(i+1,j,n,m,board);
         dfs(i,j+1,n,m,board);
-        dfs(i-1,j,n,m,board);
-        dfs(i,j-1,n,m,board);
+        
 
     }
     int countBattleships(vector<vector<char>>& board) {
