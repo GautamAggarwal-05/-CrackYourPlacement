@@ -63,6 +63,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0396-rotate-function](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
+| [0419-battleships-in-a-board](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
@@ -238,6 +239,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0289-game-of-life](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0733-flood-fill) |
@@ -720,6 +722,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+| [0419-battleships-in-a-board](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
