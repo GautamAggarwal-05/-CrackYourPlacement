@@ -620,6 +620,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0621-task-scheduler](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -688,6 +689,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0732-my-calendar-iii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0838-design-linked-list) |
 ## Randomized
 |  |
@@ -882,6 +884,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0617-merge-two-binary-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -978,6 +981,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0617-merge-two-binary-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -993,6 +997,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Graph
@@ -1039,4 +1044,8 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
