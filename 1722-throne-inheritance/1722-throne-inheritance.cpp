@@ -1,36 +1,31 @@
 class ThroneInheritance {
 public:
-    unordered_map<string,int>nametonumber;
-    unordered_map<int,string>numbertoname;
-    unordered_map<int,list<int>>adj;
+    unordered_map<string,vector<string>>adj;
     unordered_map<string,bool>marked;
+    string king;
     ThroneInheritance(string kingName) {
-        nametonumber[kingName]=0;
-        numbertoname[0]=kingName;
-        marked[kingName]=true;
+        king = kingName;
+        marked[king]=true;
     }
-    int i=1;
+
     void birth(string parentName, string childName) {
-        nametonumber[childName]=i;
-        numbertoname[i]=childName;
+        adj[parentName].push_back(childName);
         marked[childName]=true;
-        i++;
-        adj[nametonumber[parentName]].push_back(nametonumber[childName]);
     }
     // if dead mark that as true;
     void death(string name) {
         marked[name]=false;
     }
-    void dfs(int src,vector<string> &ans){
-        if(marked[numbertoname[src]])
-            ans.push_back(numbertoname[src]);
+    void dfs(string src,vector<string> &ans){
+        if(marked[src])
+            ans.push_back(src);
         for(auto neigh:adj[src]){
             dfs(neigh,ans);
         }
     }
     vector<string> getInheritanceOrder() {
         vector<string>ans;
-        dfs(0,ans);
+        dfs(king,ans);
         return ans;
     }
 };
