@@ -212,6 +212,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1016-subarray-sums-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1272-invalid-transactions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1272-invalid-transactions) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
+| [1722-throne-inheritance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1722-throne-inheritance) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -691,6 +692,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0732-my-calendar-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0838-design-linked-list) |
+| [1722-throne-inheritance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1722-throne-inheritance) |
 ## Randomized
 |  |
 | ------- |
@@ -748,6 +750,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1722-throne-inheritance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1722-throne-inheritance) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -889,6 +892,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0975-range-sum-of-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1722-throne-inheritance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1722-throne-inheritance) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
