@@ -170,6 +170,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Hash Table
 |  |
@@ -491,6 +492,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2179-most-beautiful-item-for-each-query](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Indexed Tree
 |  |
@@ -583,6 +585,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -709,6 +712,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -919,12 +923,14 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Enumeration
 |  |
 | ------- |
