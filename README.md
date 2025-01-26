@@ -132,6 +132,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
+| [2755-extra-characters-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3212-count-the-number-of-good-partitions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3212-count-the-number-of-good-partitions) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -229,6 +230,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2755-extra-characters-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3212-count-the-number-of-good-partitions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3212-count-the-number-of-good-partitions) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -348,6 +350,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2755-extra-characters-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Greedy
 |  |
@@ -600,6 +603,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2317-count-collisions-on-a-road](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2317-count-collisions-on-a-road) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2755-extra-characters-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Backtracking
@@ -724,6 +728,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0014-longest-common-prefix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0692-top-k-frequent-words) |
+| [2755-extra-characters-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 ## String Matching
 |  |
 | ------- |
