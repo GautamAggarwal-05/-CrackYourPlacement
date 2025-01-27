@@ -125,6 +125,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1951-find-the-winner-of-the-circular-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2256-count-words-obtained-after-adding-a-letter](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -227,6 +228,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1925-count-nice-pairs-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2256-count-words-obtained-after-adding-a-letter](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -301,6 +303,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2256-count-words-obtained-after-adding-a-letter](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -604,6 +607,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2256-count-words-obtained-after-adding-a-letter](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2317-count-collisions-on-a-road](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2317-count-collisions-on-a-road) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -835,6 +839,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2256-count-words-obtained-after-adding-a-letter](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
