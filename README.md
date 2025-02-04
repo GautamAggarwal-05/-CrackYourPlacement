@@ -129,6 +129,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2318-maximum-points-in-an-archery-competition) |
+| [2329-maximum-product-after-k-increments](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2329-maximum-product-after-k-increments) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2422-query-kth-smallest-trimmed-number) |
@@ -383,6 +384,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1792-find-the-most-competitive-subsequence](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2245-destroying-asteroids](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2245-destroying-asteroids) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2329-maximum-product-after-k-increments](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2329-maximum-product-after-k-increments) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 ## Stack
 |  |
@@ -663,6 +665,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2329-maximum-product-after-k-increments](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2329-maximum-product-after-k-increments) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Monotonic Queue
 |  |
