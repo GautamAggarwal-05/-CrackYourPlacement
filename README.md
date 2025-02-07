@@ -791,6 +791,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1722-throne-inheritance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1722-throne-inheritance) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -934,6 +935,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0975-range-sum-of-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1722-throne-inheritance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1722-throne-inheritance) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1035,6 +1037,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
