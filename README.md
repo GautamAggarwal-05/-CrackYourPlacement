@@ -517,6 +517,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -709,6 +710,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1501-circle-and-rectangle-overlapping](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3212-count-the-number-of-good-partitions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3212-count-the-number-of-good-partitions) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -1087,6 +1089,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 ## Number Theory
 |  |
 | ------- |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 ## Reservoir Sampling
 |  |
