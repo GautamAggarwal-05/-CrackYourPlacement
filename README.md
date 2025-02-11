@@ -790,6 +790,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0975-range-sum-of-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1300-critical-connections-in-a-network](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -1061,6 +1062,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0820-find-eventual-safe-states](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1300-critical-connections-in-a-network](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -1108,4 +1110,8 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2422-query-kth-smallest-trimmed-number) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
