@@ -134,6 +134,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2329-maximum-product-after-k-increments](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2329-maximum-product-after-k-increments) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2368-sum-of-total-strength-of-wizards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -419,6 +420,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2317-count-collisions-on-a-road](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2317-count-collisions-on-a-road) |
+| [2368-sum-of-total-strength-of-wizards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -433,6 +435,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0943-sum-of-subarray-minimums](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
+| [2368-sum-of-total-strength-of-wizards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
@@ -451,6 +454,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2368-sum-of-total-strength-of-wizards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Sliding Window
