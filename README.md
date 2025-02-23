@@ -18,6 +18,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0015-3sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0048-rotate-image) |
@@ -158,6 +159,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0086-partition-list) |
