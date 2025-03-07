@@ -865,6 +865,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0187-repeated-dna-sequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0338-counting-bits) |
+| [0476-number-complement](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0476-number-complement) |
 | [0638-shopping-offers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
