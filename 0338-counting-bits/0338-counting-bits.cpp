@@ -1,18 +1,15 @@
 class Solution {
 public:
-    int ones_count(int n){
-        int ans=0;
-        while(n>0){
-            n = (n&(n-1));
-            ans++;
-        }
-        return ans;
-    }
+   // if the number is odd - 1bit count is i/2+1 1bits
+   //and if number is even - 1 bit count is i/2 1bits;
     vector<int> countBits(int n) {
-        vector<int>ans;
-        for(int i=0;i<=n;i++){
-            int bits = ones_count(i);
-            ans.push_back(bits);
+        vector<int>ans(n+1);
+        ans[0]=0;
+        for(int i=1;i<=n;i++){
+            if(i%2!=0)
+                ans[i] = (ans[i/2]+1);
+            else
+                ans[i] = (ans[i/2]);
         }
         return ans;
     }
