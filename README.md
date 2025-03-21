@@ -109,6 +109,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1014-k-closest-points-to-origin](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1117-as-far-from-land-as-possible](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1272-invalid-transactions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1272-invalid-transactions) |
@@ -230,6 +231,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1272-invalid-transactions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1272-invalid-transactions) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1722-throne-inheritance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1722-throne-inheritance) |
@@ -510,6 +512,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0621-task-scheduler](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1925-count-nice-pairs-in-an-array) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3594-identify-the-largest-outlier-in-an-array) |
