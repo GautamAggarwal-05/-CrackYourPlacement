@@ -67,6 +67,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0396-rotate-function](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -296,6 +297,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0354-russian-doll-envelopes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -354,6 +356,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0368-largest-divisible-subset](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0638-shopping-offers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0638-shopping-offers) |
 | [0688-knight-probability-in-chessboard](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0688-knight-probability-in-chessboard) |
@@ -386,6 +389,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0135-candy](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0581-shortest-unsorted-continuous-subarray) |
