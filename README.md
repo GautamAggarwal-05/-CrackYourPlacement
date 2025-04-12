@@ -153,6 +153,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -331,6 +332,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2422-query-kth-smallest-trimmed-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -382,6 +384,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2755-extra-characters-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Greedy
 |  |
