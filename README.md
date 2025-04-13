@@ -363,6 +363,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0416-partition-equal-subset-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0552-student-attendance-record-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0552-student-attendance-record-ii) |
 | [0638-shopping-offers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0638-shopping-offers) |
 | [0688-knight-probability-in-chessboard](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0688-knight-probability-in-chessboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
