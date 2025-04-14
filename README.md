@@ -154,6 +154,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [3235-minimum-cost-to-convert-string-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -254,6 +255,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2755-extra-characters-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3212-count-the-number-of-good-partitions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3212-count-the-number-of-good-partitions) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -389,6 +391,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2755-extra-characters-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Greedy
 |  |
