@@ -1,23 +1,20 @@
 class Solution {
-private:
-    const int mod=int(1e9+7);
-    int dp[1001][1001];
-    int f(int n,int k) {
-        //base case
-        if(k<=0) return k==0;
-        if(dp[n][k]!=-1) return dp[n][k];
-
-
-        int ans=0;
-        for(int i=0;i<n;++i) {
-            ans+=f(n-1,k-i);
-            ans%=mod;
-        }
-        return dp[n][k]=ans;
-    }
 public:
+    int mod=1000000007;
+    int dp[1001][1001];
     int kInversePairs(int n, int k) {
-        memset(dp,-1,sizeof(dp));
-        return f(n,k);
+        // vector<vector<int>>dp(n+1,vector<int>(k+1,-1));
+        memset(dp,0,sizeof(dp));
+        for(int i=0;i<=n;i++){
+            dp[i][0]=1;
+        }
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=k;j++){
+                for(int inv=0;inv<=min(j,i-1);inv++){
+                    dp[i][j]=(dp[i][j]+dp[i-1][j-inv])%mod;
+                }
+            }
+        }
+        return dp[n][k];
     }
 };
