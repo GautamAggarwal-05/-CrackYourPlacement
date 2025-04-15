@@ -9,10 +9,13 @@ public:
             dp[i][0]=1;
         }
         for(int i=1;i<=n;i++){
+            long long cumsum=1;
             for(int j=1;j<=k;j++){
-                for(int inv=0;inv<=min(j,i-1);inv++){
-                    dp[i][j]=(dp[i][j]+dp[i-1][j-inv])%mod;
-                }
+                    cumsum = (cumsum + dp[i-1][j]);
+                    if(j-i>=0){
+                        cumsum = cumsum - dp[i-1][j-i];
+                    }
+                    dp[i][j]=cumsum % mod;
             }
         }
         return dp[n][k];
