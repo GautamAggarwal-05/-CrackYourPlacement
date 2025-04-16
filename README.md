@@ -380,6 +380,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0902-minimum-number-of-refueling-stops](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0923-super-egg-drop](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [0943-sum-of-subarray-minimums](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [0956-number-of-music-playlists](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0956-number-of-music-playlists) |
 | [0967-minimum-falling-path-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0972-knight-dialer) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
@@ -755,6 +756,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0903-implement-rand10-using-rand7](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0903-implement-rand10-using-rand7) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0923-super-egg-drop](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
+| [0956-number-of-music-playlists](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0956-number-of-music-playlists) |
 | [1014-k-closest-points-to-origin](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1016,6 +1018,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0062-unique-paths) |
+| [0956-number-of-music-playlists](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0956-number-of-music-playlists) |
 | [3212-count-the-number-of-good-partitions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3212-count-the-number-of-good-partitions) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Rolling Hash
