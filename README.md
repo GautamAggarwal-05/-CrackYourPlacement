@@ -125,6 +125,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -290,6 +291,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0971-shortest-bridge](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sorting
 |  |
@@ -393,6 +395,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -492,6 +495,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1370-count-number-of-nice-subarrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2368-sum-of-total-strength-of-wizards) |
@@ -1018,6 +1022,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0139-word-break](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0139-word-break) |
 | [0638-shopping-offers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
 |  |
