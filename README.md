@@ -395,6 +395,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -494,6 +495,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
