@@ -87,6 +87,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0628-maximum-product-of-three-numbers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0638-shopping-offers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0638-shopping-offers) |
 | [0661-image-smoother](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0661-image-smoother) |
+| [0665-non-decreasing-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0665-non-decreasing-array) |
 | [0692-top-k-frequent-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
