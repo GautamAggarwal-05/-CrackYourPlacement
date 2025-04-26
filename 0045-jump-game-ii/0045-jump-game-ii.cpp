@@ -1,24 +1,18 @@
 class Solution {
 public:
-    int solve(int indx,vector<int>& nums,vector<int>& dp){
-        if(indx>=nums.size()-1)
-            return 0;
-        if(nums[indx]==0)
-            return 1e9+7;
-        if(dp[indx]!=-1)
-            return dp[indx];
-        int power=nums[indx];
-        int ans=0;
-        int result=1e9+7;
-        for(int i=1;i<=power;i++){
-           ans = 1 +  solve(indx+i,nums,dp);
-           result=min(result,ans);
-        }
-        return dp[indx] = result;
-    }
     int jump(vector<int>& nums) {
-        int n=nums.size();
-        vector<int>dp(n+1,-1);
-        return solve(0,nums,dp);
+        int ans=0;
+        int m=0;
+        int currend=0;
+        for(int i=0;i<nums.size()-1;i++){
+            if(i+nums[i]>m){ // max jump till now we can make but do we need this jump that we get to know with the help of second condition i==currend means abh mai vaha tak pauch gaya jaha tak jaa sakta tha but yeh to end nahi hai means ek jump lena padega toh max vala lelete hai toh abh hamara currend change ho gaya means abh ham m tak pauch sakte hai.
+                m=i+nums[i];
+            }
+            if(i==currend){
+                ans++;
+                currend=m;
+            }
+        }
+        return ans;
     }
 };
