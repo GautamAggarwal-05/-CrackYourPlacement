@@ -1,32 +1,26 @@
 class Solution {
 public:
     int minRefuelStops(int target, int startFuel, vector<vector<int>>& stations) {
-        priority_queue<int> maxQueue;
-        int currentFuel = startFuel;
-        int stops = 0;
-        int currentPosition = 0;
-
-        stations.push_back({target, 0});
-        for(const auto & station: stations) {
-            int position = station[0];
-            int fuel = station[1];
-
-            while(currentPosition + currentFuel < position) {
-                if (maxQueue.empty()) {
+        int n=stations.size();
+        priority_queue<int>maxheap;
+        int currpos=0;
+        int remainfuel=startFuel;
+        stations.push_back({target,0});
+        int count=0;
+        for(int i=0;i<=n;i++){
+            int fuel=stations[i][1];
+            int pos=stations[i][0];
+            while(remainfuel+currpos<pos){
+                if(maxheap.empty())
                     return -1;
-                }
-                currentFuel += maxQueue.top();
-                maxQueue.pop();
-                stops++;
+                remainfuel+=maxheap.top();
+                maxheap.pop();
+                count++;
             }
-            currentFuel -= (position - currentPosition);
-            currentPosition = position;
-
-            maxQueue.push(fuel);
+            remainfuel -= (pos-currpos);
+            currpos=pos;
+            maxheap.push(fuel);
         }
-        return stops;
+        return count;
     }
 };
-
-
-
