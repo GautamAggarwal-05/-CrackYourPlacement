@@ -849,6 +849,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0404-sum-of-left-leaves](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
@@ -889,6 +890,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1006,6 +1008,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
@@ -1111,6 +1114,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
