@@ -346,6 +346,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0063-unique-paths-ii) |
@@ -439,6 +440,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
@@ -634,6 +636,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0020-valid-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0067-add-binary) |
