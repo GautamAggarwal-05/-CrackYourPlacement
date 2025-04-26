@@ -20,6 +20,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0049-group-anagrams) |
@@ -347,6 +348,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0022-generate-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0063-unique-paths-ii) |
@@ -411,6 +413,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0135-candy) |
