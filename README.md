@@ -369,6 +369,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0152-maximum-product-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0322-coin-change) |
@@ -661,6 +662,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0187-repeated-dna-sequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0187-repeated-dna-sequences) |
 | [0212-word-search-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0290-word-pattern) |
@@ -766,6 +768,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0166-fraction-to-recurring-decimal](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
@@ -951,6 +954,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0203-remove-linked-list-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2573-remove-nodes-from-linked-list) |
@@ -1039,6 +1043,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0070-climbing-stairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0638-shopping-offers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
