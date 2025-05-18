@@ -406,6 +406,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2755-extra-characters-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
