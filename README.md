@@ -161,6 +161,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [3235-minimum-cost-to-convert-string-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3321-type-of-triangle](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3321-type-of-triangle) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -347,6 +348,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3321-type-of-triangle](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -793,6 +795,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3212-count-the-number-of-good-partitions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3212-count-the-number-of-good-partitions) |
+| [3321-type-of-triangle](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3321-type-of-triangle) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Design
