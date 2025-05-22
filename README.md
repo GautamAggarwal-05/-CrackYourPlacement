@@ -168,6 +168,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3639-zero-array-transformation-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3647-zero-array-transformation-iii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -350,6 +351,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3321-type-of-triangle](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -448,6 +450,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2329-maximum-product-after-k-increments](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2329-maximum-product-after-k-increments) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
+| [3647-zero-array-transformation-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3647-zero-array-transformation-iii) |
 ## Stack
 |  |
 | ------- |
@@ -518,6 +521,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2368-sum-of-total-strength-of-wizards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3647-zero-array-transformation-iii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Sliding Window
 |  |
@@ -750,6 +754,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2329-maximum-product-after-k-increments) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [3647-zero-array-transformation-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
