@@ -1218,4 +1218,8 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
