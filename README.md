@@ -59,6 +59,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0283-move-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0324-wiggle-sort-ii) |
@@ -605,11 +606,13 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
@@ -815,6 +818,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0232-implement-queue-using-stacks](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0341-flatten-nested-list-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
