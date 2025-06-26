@@ -93,6 +93,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0665-non-decreasing-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0665-non-decreasing-array) |
 | [0692-top-k-frequent-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0699-falling-squares](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0699-falling-squares) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0722-remove-comments](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0722-remove-comments) |
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
@@ -614,6 +615,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0699-falling-squares) |
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0732-my-calendar-iii) |
@@ -627,6 +629,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0699-falling-squares) |
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0732-my-calendar-iii) |
