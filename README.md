@@ -61,6 +61,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0304-range-sum-query-2d-immutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0312-burst-balloons) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
@@ -554,6 +555,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0169-majority-element](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
@@ -580,6 +582,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0004-median-of-two-sorted-arrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
@@ -608,12 +611,14 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0699-falling-squares) |
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
@@ -623,11 +628,13 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0699-falling-squares) |
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
