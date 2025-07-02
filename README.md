@@ -117,6 +117,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0971-shortest-bridge](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1014-k-closest-points-to-origin](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1117-as-far-from-land-as-possible](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
@@ -300,6 +301,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0945-snakes-and-ladders](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
+| [1036-rotting-oranges](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
@@ -931,6 +933,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
+| [1036-rotting-oranges](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1428-jump-game-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1428-jump-game-iii) |
