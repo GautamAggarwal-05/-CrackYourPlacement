@@ -20,6 +20,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0048-rotate-image) |
@@ -724,6 +725,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
