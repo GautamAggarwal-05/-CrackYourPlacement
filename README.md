@@ -27,6 +27,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0047-permutations-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0056-merge-intervals) |
@@ -733,6 +734,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0040-combination-sum-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
