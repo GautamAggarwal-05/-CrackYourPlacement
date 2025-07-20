@@ -1271,6 +1271,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1773-percentage-of-users-attended-a-contest](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1827-invalid-tweets) |
+| [1877-find-followers-count](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
