@@ -1257,6 +1257,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0584-find-customer-referee](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1153-product-sales-analysis-i) |
