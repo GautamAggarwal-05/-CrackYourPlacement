@@ -140,6 +140,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
@@ -349,6 +350,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -421,6 +423,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
