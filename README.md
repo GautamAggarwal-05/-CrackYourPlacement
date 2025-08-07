@@ -712,6 +712,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0722-remove-comments](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0722-remove-comments) |
 | [0778-reorganize-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1252-break-a-palindrome](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1252-break-a-palindrome) |
 | [1272-invalid-transactions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1272-invalid-transactions) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -823,6 +824,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0923-super-egg-drop](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [0956-number-of-music-playlists](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0956-number-of-music-playlists) |
 | [1014-k-closest-points-to-origin](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
