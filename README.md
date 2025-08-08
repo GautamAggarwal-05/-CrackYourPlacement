@@ -45,6 +45,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0149-max-points-on-a-line) |
@@ -440,6 +441,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0045-jump-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
