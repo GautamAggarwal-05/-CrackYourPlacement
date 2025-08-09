@@ -1,34 +1,26 @@
+// Memoization
 class Solution {
-public:
-    int solve(int i, int j, vector<int>& nums1, vector<int>& nums2, vector<vector<int>>& dp, int& maxLength) {
-        if (i == nums1.size() || j == nums2.size())
-            return 0;
-        
-        if (dp[i][j] != -1)
-            return dp[i][j];
-        
-        int len = 0;
-        if (nums1[i] == nums2[j]) {
-            len = 1 + solve(i + 1, j + 1, nums1, nums2, dp, maxLength);
-            maxLength = max(maxLength, len);
+private:
+    int lcs(vector<int>& n1, vector<int>& n2, int i, int j, int &ans, vector<vector<int>>&dp){
+        if (i >= n1.size() || j >= n2.size()) return 0;
+         
+        if(dp[i][j]!=-1) return dp[i][j];
+        int cur = 0;
+        if (n1[i] == n2[j]){
+            cur = lcs(n1, n2, i + 1, j + 1, ans, dp)+1; 
+            ans = max(ans, cur);
         }
-        
-        // Even if nums1[i] != nums2[j], we store 0 in dp[i][j]
-        dp[i][j] = len;
-        solve(i + 1, j, nums1, nums2, dp, maxLength);
-        solve(i, j + 1, nums1, nums2, dp, maxLength);
-        
-        return dp[i][j];
-    }
-
+        lcs(n1, n2, i, j + 1, ans, dp);
+        lcs(n1, n2, i + 1, j, ans, dp);
+        return dp[i][j] = cur;
+    } 
+public:
     int findLength(vector<int>& nums1, vector<int>& nums2) {
-        int n = nums1.size();
-        int m = nums2.size();
-        vector<vector<int>> dp(n, vector<int>(m, -1));
-        int maxLength = 0;
-        
-        solve(0, 0, nums1, nums2, dp, maxLength);
-        
-        return maxLength;
+        int n = nums1.size(), m = nums2.size();
+        vector<vector<int>>dp(n+1,vector<int>(m+1,-1));
+        int ans = 0;
+        lcs(nums1, nums2, 0, 0, ans, dp);
+        return ans;
     }
 };
+
