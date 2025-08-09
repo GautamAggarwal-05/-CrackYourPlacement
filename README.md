@@ -147,6 +147,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -431,6 +432,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1569-max-dot-product-of-two-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -464,6 +466,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2245-destroying-asteroids](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2245-destroying-asteroids) |
@@ -617,6 +620,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
