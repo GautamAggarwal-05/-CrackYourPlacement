@@ -1,26 +1,34 @@
 class Solution {
 public:
-    static bool comp(vector<int> &a,vector<int>&b){
-        if(a[0]==b[0]){
-            return a[1]>b[1];
+     static bool comp(pair<int,int> &a,pair<int,int>&b){
+        if(a.first==b.first){
+            return a.second>b.second;
         }
         else{
-            return a[0]<b[0];
+            return a.first<b.first;
         }
     }
-    int maxEnvelopes(vector<vector<int>>& envelopes) {
-        sort(envelopes.begin(),envelopes.end(),comp);
-        vector<int> temp;
-        temp.push_back(envelopes[0][1]);
-        for(int i=1;i<envelopes.size();i++){
-            if(temp.back()<envelopes[i][1]){
-                temp.push_back(envelopes[i][1]);
-            }
-            else{
-                auto ind=lower_bound(temp.begin(),temp.end(),envelopes[i][1])-temp.begin();
-                temp[ind]=envelopes[i][1];
+
+    int maxEnvelopes(vector<vector<int>>& env) {
+        vector<pair<int,int>>arr(env.size());
+        for(int i = 0 ; i < env.size() ; i++){
+            arr[i] = {env[i][0],env[i][1]};
+        }
+
+        sort(arr.begin(),arr.end(),comp);
+        
+        vector<int>ans;
+        ans.push_back(arr[0].second);
+        for(int i=1;i<env.size();i++)
+        {
+            if(arr[i].second > ans.back())
+                ans.push_back(arr[i].second);
+            else
+            {
+                int indx = lower_bound(ans.begin(),ans.end(),arr[i].second)-ans.begin();
+                ans[indx]=arr[i].second;
             }
         }
-        return temp.size();
+        return ans.size();
     }
 };
