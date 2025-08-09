@@ -139,6 +139,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -427,6 +428,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2061-painting-a-grid-with-three-different-colors) |
