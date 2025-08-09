@@ -128,6 +128,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1117-as-far-from-land-as-possible](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1272-invalid-transactions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1272-invalid-transactions) |
+| [1290-make-array-strictly-increasing](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1290-make-array-strictly-increasing) |
 | [1306-minimum-absolute-difference](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1306-minimum-absolute-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -348,6 +349,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0941-sort-array-by-parity](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1272-invalid-transactions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1272-invalid-transactions) |
+| [1290-make-array-strictly-increasing](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1290-make-array-strictly-increasing) |
 | [1306-minimum-absolute-difference](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1306-minimum-absolute-difference) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -421,6 +423,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1042-minimum-cost-to-merge-stones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1117-as-far-from-land-as-possible](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1117-as-far-from-land-as-possible) |
 | [1240-stone-game-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
+| [1290-make-array-strictly-increasing](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1290-make-array-strictly-increasing) |
 | [1332-count-vowels-permutation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1332-count-vowels-permutation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -617,6 +620,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0852-friends-of-appropriate-ages](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0852-friends-of-appropriate-ages) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0923-super-egg-drop](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
+| [1290-make-array-strictly-increasing](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1290-make-array-strictly-increasing) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
