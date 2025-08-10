@@ -57,6 +57,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0200-number-of-islands](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0213-house-robber-ii) |
 | [0218-the-skyline-problem](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0218-the-skyline-problem) |
 | [0221-maximal-square](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
@@ -393,6 +394,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0139-word-break](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0174-dungeon-game) |
+| [0213-house-robber-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
