@@ -85,6 +85,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0502-ipo) |
@@ -408,6 +409,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0416-partition-equal-subset-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0494-target-sum) |
 | [0552-student-attendance-record-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0552-student-attendance-record-ii) |
 | [0629-k-inverse-pairs-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0629-k-inverse-pairs-array) |
 | [0638-shopping-offers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0638-shopping-offers) |
@@ -763,6 +765,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0131-palindrome-partitioning](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
