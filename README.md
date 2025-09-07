@@ -214,6 +214,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0532-k-diff-pairs-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0611-valid-triangle-number) |
+| [0647-palindromic-substrings](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0852-friends-of-appropriate-ages](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0852-friends-of-appropriate-ages) |
 | [0874-backspace-string-compare](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
@@ -414,6 +415,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0552-student-attendance-record-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0552-student-attendance-record-ii) |
 | [0629-k-inverse-pairs-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0629-k-inverse-pairs-array) |
 | [0638-shopping-offers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0638-shopping-offers) |
+| [0647-palindromic-substrings](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0647-palindromic-substrings) |
 | [0688-knight-probability-in-chessboard](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0688-knight-probability-in-chessboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -729,6 +731,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0451-sort-characters-by-frequency](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0468-validate-ip-address) |
 | [0474-ones-and-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
+| [0647-palindromic-substrings](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0692-top-k-frequent-words) |
 | [0722-remove-comments](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0722-remove-comments) |
