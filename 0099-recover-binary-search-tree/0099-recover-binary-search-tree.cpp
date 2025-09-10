@@ -11,38 +11,33 @@
  */
 class Solution {
 public:
-    TreeNode* prev;
+    void solve(TreeNode* root){
+        if(root == NULL)
+            return ;
+        
+        solve(root->left);
+        if(prev!=NULL && prev->val > root->val){
+            if(first==NULL){
+                first = prev;
+                middle = root;
+            }
+            else{
+                last = root;
+            }
+        }
+        prev = root;
+        solve(root->right);
+    }
     TreeNode* first;
     TreeNode* middle;
     TreeNode* last;
-    void helper(TreeNode* root){
-        if(root==NULL)
-            return ;
-
-        helper(root->left);
-        if(prev!=NULL && root->val < prev->val){
-            //if this is the first violation mark these two nodes first and middle
-            if(first == NULL){
-                first=prev;
-                middle=root;
-            }
-            //if this is the second violation then mark last
-            else{
-                last=root;
-            }
-        }
-        //mark this node as previous
-        prev=root;
-        helper(root->right);
-
-    }
+    TreeNode* prev ;
     void recoverTree(TreeNode* root) {
-        first=middle=last=NULL;
-        prev=new TreeNode(INT_MIN);
-        helper(root);
-        if(first && last)
-            swap(first->val,last->val);
-        else if(first && middle)
-            swap(first->val,middle->val);
-    }
+        first=middle=last=prev=NULL;
+    solve(root);
+    if(first && last)
+        swap(first->val,last->val);
+    else if(first && middle)
+        swap(first->val,middle->val);
+    } 
 };
