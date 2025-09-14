@@ -447,6 +447,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2755-extra-characters-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
+| [3017-number-of-beautiful-integers-in-the-range](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
@@ -860,6 +861,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2432-number-of-zero-filled-subarrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
+| [3017-number-of-beautiful-integers-in-the-range](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3212-count-the-number-of-good-partitions](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3212-count-the-number-of-good-partitions) |
 | [3321-type-of-triangle](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3321-type-of-triangle) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
