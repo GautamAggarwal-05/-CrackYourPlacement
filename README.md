@@ -186,6 +186,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [3639-zero-array-transformation-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3647-zero-array-transformation-iii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3875-maximum-good-subtree-score](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3875-maximum-good-subtree-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -452,6 +453,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3875-maximum-good-subtree-score](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3875-maximum-good-subtree-score) |
 ## Greedy
 |  |
 | ------- |
@@ -955,6 +957,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3875-maximum-good-subtree-score](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3875-maximum-good-subtree-score) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1016,6 +1019,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3875-maximum-good-subtree-score](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3875-maximum-good-subtree-score) |
 ## Recursion
 |  |
 | ------- |
@@ -1109,6 +1113,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3875-maximum-good-subtree-score](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3875-maximum-good-subtree-score) |
 ## Iterator
 |  |
 | ------- |
@@ -1248,6 +1253,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0638-shopping-offers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3875-maximum-good-subtree-score](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3875-maximum-good-subtree-score) |
 ## Rejection Sampling
 |  |
 | ------- |
