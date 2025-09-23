@@ -159,6 +159,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2245-destroying-asteroids](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2245-destroying-asteroids) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2256-count-words-obtained-after-adding-a-letter) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2329-maximum-product-after-k-increments](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2329-maximum-product-after-k-increments) |
@@ -446,6 +447,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2755-extra-characters-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3017-number-of-beautiful-integers-in-the-range) |
@@ -811,6 +813,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1762-furthest-building-you-can-reach) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2329-maximum-product-after-k-increments](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2329-maximum-product-after-k-increments) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [3647-zero-array-transformation-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3647-zero-array-transformation-iii) |
