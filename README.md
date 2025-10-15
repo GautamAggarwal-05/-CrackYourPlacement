@@ -473,6 +473,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0670-maximum-swap](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -850,6 +851,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0445-add-two-numbers-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0670-maximum-swap](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [0856-consecutive-numbers-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0856-consecutive-numbers-sum) |
 | [0903-implement-rand10-using-rand7](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0903-implement-rand10-using-rand7) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0914-random-point-in-non-overlapping-rectangles) |
