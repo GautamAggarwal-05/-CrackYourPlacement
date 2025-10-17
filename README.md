@@ -179,6 +179,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3321-type-of-triangle](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3321-type-of-triangle) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -452,6 +453,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2755-extra-characters-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -644,6 +646,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2716-prime-subtraction-operation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -662,6 +665,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0729-my-calendar-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0732-my-calendar-iii) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -791,6 +795,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [1622-max-value-of-equation](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
 |  |
@@ -1022,6 +1027,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2318-maximum-points-in-an-archery-competition) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3676-smallest-number-with-all-set-bits) |
