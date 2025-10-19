@@ -452,6 +452,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2755-extra-characters-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3017-number-of-beautiful-integers-in-the-range) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -762,6 +763,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2422-query-kth-smallest-trimmed-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2755-extra-characters-in-a-string](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Backtracking
@@ -1027,6 +1029,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2318-maximum-points-in-an-archery-competition](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2318-maximum-points-in-an-archery-competition) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1268,6 +1271,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0638-shopping-offers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3875-maximum-good-subtree-score](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/3875-maximum-good-subtree-score) |
 ## Rejection Sampling
 |  |
