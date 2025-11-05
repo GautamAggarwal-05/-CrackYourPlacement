@@ -6,11 +6,11 @@ class Solution {
         if(n==1)
             return x;
         double ans=1.0;
-        if((n & (n - 1)) == 0){// power of 2
-            ans = solve(x,n/2);
+        ans = solve(x,n/2);
+        if(n%2==0){// power of 2
             return ans*ans;
         }else{
-            return x * solve(x,n-1);
+            return ans * ans * x;
         }
     }
     public double myPow(double x, int n) {
