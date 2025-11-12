@@ -91,6 +91,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0498-diagonal-traverse](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -417,6 +418,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0435-non-overlapping-intervals](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0518-coin-change-ii) |
 | [0552-student-attendance-record-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0552-student-attendance-record-ii) |
 | [0629-k-inverse-pairs-array](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0629-k-inverse-pairs-array) |
 | [0638-shopping-offers](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0638-shopping-offers) |
