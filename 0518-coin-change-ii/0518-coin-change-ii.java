@@ -10,12 +10,12 @@ class Solution {
         
         if(dp[i][target]!=-1)
             return dp[i][target];
-        int ways=0;
-        for(int j=i;j<coins.length;j++){
-            int res = solve(j,target-coins[j],coins,dp);
-            ways += res;
+        int take=0,nottake=0;
+        if(target >= coins[i]){
+            take = solve(i,target-coins[i],coins,dp);
         }
-        return  dp[i][target] = ways;
+        nottake = solve(i+1,target,coins,dp);
+        return dp[i][target] = take + nottake;
     }
     public int change(int amount, int[] coins) {
         int n=coins.length;
