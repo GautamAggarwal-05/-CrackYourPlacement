@@ -68,6 +68,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0304-range-sum-query-2d-immutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0324-wiggle-sort-ii) |
@@ -408,6 +409,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0241-different-ways-to-add-parentheses](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0354-russian-doll-envelopes) |
@@ -857,6 +859,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0263-ugly-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0313-super-ugly-number](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0396-rotate-function](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0396-rotate-function) |
