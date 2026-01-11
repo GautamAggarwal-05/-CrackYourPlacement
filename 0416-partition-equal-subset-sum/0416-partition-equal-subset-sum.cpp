@@ -1,52 +1,27 @@
 class Solution {
-private:
-
-//RECURSION+MEMO
-// int solve(int indx, vector<int>nums, int target,vector<vector<int>>&dp)
-// {
-//     if(indx==nums.size()&& target!=0)
-//         return false;
-//     if(target==0)
-//         return true;
-//     if(target<0)
-//         return false;
-//     if(dp[indx][target]!=-1)
-//         return dp[indx][target];
-    
-//     bool include = solve(indx+1,nums,target-nums[indx],dp);
-//     bool exclude = solve(indx+1,nums,target,dp);
-//     return dp[indx][target] = include or exclude;
-
-// }
 public:
-    bool canPartition(vector<int>& nums) {
-        int n=nums.size();
-        int sum=accumulate(nums.begin(),nums.end(),0);
-        // int target=sum/2;
-        if(sum % 2!=0)
+    bool solve(int i,int curr,int totalsum,vector<int>&nums,vector<vector<int>>&dp){
+        if(i>=nums.size())
             return false;
-        if(n==1)
-            return false;
-        
-        // vector<vector<int>>dp(n+1,vector<int>(target+1,-1));
-        // return solve(0,nums,target,dp);
-        vector<vector<int>>dp(n+1,vector<int>((sum/2)+1,0));
-        for(int i=0;i<=n;i++)
-             dp[i][0]=1;
-        
-        for(int indx=n-1 ;indx>=0;indx--)
-        {
-            for(int target=0;target<=sum/2;target++)
-            {
-                bool include=false;
-                if(target-nums[indx]>=0)
-                    include = dp[indx+1][target-nums[indx]];
-
-                bool exclude = dp[indx+1][target];
-                dp[indx][target] = include or exclude;
-            }
+        if(curr == totalsum - curr){
+            return true;
         }
-        return dp[0][sum/2];
+        if(curr > abs(totalsum-curr)){
+            return false;
+        }
+        if(dp[i][curr]!=-1)
+            return dp[i][curr];
+        int include = solve(i+1,curr + nums[i],totalsum,nums,dp);
+        int exclude = solve(i+1,curr,totalsum,nums,dp);
+        return dp[i][curr] =  include || exclude;
+    }
+    bool canPartition(vector<int>& nums) {
+        int sum=0,n;
+        n = nums.size();
+        for(int num:nums){
+            sum += num;
+        }
+        vector<vector<int>>dp(n+1,vector<int>(sum+1,-1));
+        return sum%2!=0?false:solve(0,0,sum,nums,dp);
     }
 };
-
