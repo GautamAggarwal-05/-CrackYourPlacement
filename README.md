@@ -123,6 +123,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0941-sort-array-by-parity](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0945-snakes-and-ladders) |
+| [0956-tallest-billboard](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0956-tallest-billboard) |
 | [0967-minimum-falling-path-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1014-k-closest-points-to-origin](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
@@ -434,6 +435,7 @@ Wish me luck on this exciting journey to mastering Data Structures and Algorithm
 | [0923-super-egg-drop](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0923-super-egg-drop) |
 | [0943-sum-of-subarray-minimums](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0956-number-of-music-playlists](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0956-number-of-music-playlists) |
+| [0956-tallest-billboard](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0956-tallest-billboard) |
 | [0967-minimum-falling-path-sum](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/0972-knight-dialer) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/GautamAggarwal-05/-CrackYourPlacement/tree/master/1042-minimum-cost-to-merge-stones) |
